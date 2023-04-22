@@ -8,7 +8,7 @@ This app is for my personal use only and I happy to share a release for anyone i
 ## Features
 ![enter image description here](./public/public-features.jpg)
 
-- Display your current playing track on Spotify
+- Use your NZXT Kraken Display to show your current playing track on Spotify
 - Spotify playlist carousel on idle
 
 ## Installation and Setup
