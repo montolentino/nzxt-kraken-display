@@ -6,7 +6,7 @@ This web allows you to use NZXT CAM's Web Integration to display your current pl
 This app is for my personal use only and I happy to share a release for anyone interested to use it as well. I will continue to add features as requested and continue to provide customizations as I deemed necesarry for the project. 
 
 ## Features
-![enter image description here](gfdgfdg)
+![enter image description here](./public/public-features.jpg)
 
 ## Installation and Setup
 
