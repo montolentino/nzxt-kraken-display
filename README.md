@@ -48,7 +48,7 @@ This should take you to "Kraken Display Setup" page. You don't need to setup the
  Now you need to configure your application with the Kraken Display's Redirect URI. This will allow Kraken Display to return the necessary token from Spotify to the Kraken Display application.
  - On the dashboard page of your application, select your application and select "**Settings**".
  - At the bottom of the page, select "**Edit**".
- - Under Redirect URIs, add **http://localhost/krakendisplay**.
+ - Under Redirect URIs, add **http://localhost/krakendisplay/settings**.
  > If you setup your application differently on IIS, then you should know where your application is hosted. Make sure to include /settings when setting up the Redirect URI on your spotify Application.
 
 **6. Setup your Kraken Display and Login with Spotify**
