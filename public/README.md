@@ -6,10 +6,7 @@ This web allows you to use NZXT CAM's Web Integration to display your current pl
 This app is for my personal use only and I happy to share a release for anyone interested to use it as well. I will continue to add features as requested and continue to provide customizations as I deemed necesarry for the project. 
 
 ## Features
-![enter image description here](./public/public-features.jpg)
-
-- Use your NZXT Kraken Display to show your current playing track on Spotify
-- Spotify playlist carousel on idle
+![enter image description here](gfdgfdg)
 
 ## Installation and Setup
 
@@ -48,7 +45,7 @@ This should take you to "Kraken Display Setup" page. You don't need to setup the
  Now you need to configure your application with the Kraken Display's Redirect URI. This will allow Kraken Display to return the necessary token from Spotify to the Kraken Display application.
  - On the dashboard page of your application, select your application and select "**Settings**".
  - At the bottom of the page, select "**Edit**".
- - Under Redirect URIs, add **http://localhost/krakendisplay/settings**.
+ - Under Redirect URIs, add **http://localhost/krakendisplay**.
  > If you setup your application differently on IIS, then you should know where your application is hosted. Make sure to include /settings when setting up the Redirect URI on your spotify Application.
 
 **6. Setup your Kraken Display and Login with Spotify**
