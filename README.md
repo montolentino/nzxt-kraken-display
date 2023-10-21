@@ -17,7 +17,7 @@ This app is for my personal use only and I happy to share a release for anyone i
 1. Open NZXT Cam on your device and select Lighting.
 2. For the Display, select "Web Integration".
 3. Under Web Integration, Select Custom and click "Edit".
-4. On the type or paste URL field, Enter "https://montolentino.github.io/nzxt-kraken-display/".
+4. On the type or paste URL field, Enter "https://montolentino.github.io/nzxt-kraken-display".
 5. Select the arrow buton one time, and select "Configure".
  - This should open a modal window where the Kraken Display Setup" page will open.
  - From here, follow the application's instruction in setting up your display.
